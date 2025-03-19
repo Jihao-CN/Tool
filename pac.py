@@ -2,11 +2,13 @@ import piexif
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import sys
+
 def select_file():
     root = tk.Tk()
     root.withdraw()
     file_path = filedialog.askopenfilename()
     return file_path
+    
 def clone_attributes():
     first_file = select_file()
     if not first_file:
