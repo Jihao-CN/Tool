@@ -6,7 +6,7 @@ fae(file attribute editor)文件属性编辑器
 
 找不到文件了？只要输入文件路径，或者这样:
 
-![动图](https://jihao-cn.github.io/EmbedShare/changesettingsoff.gif)
+![动图](https://s2.loli.net/2025/03/21/YAxf2qaWGtLVswC.gif)
 
 然后选择文件，就可以更改属性了！用完记得调回去！
 
